@@ -10,7 +10,7 @@ Requires Python 3. From the repository root:
 python3 -m http.server 8000
 ```
 
-Open http://localhost:8000 in a modern browser. Keep this terminal running. On Windows, use `py -m http.server 8000`.
+Open https://rohanpande001.github.io/optimist-agent-prototype/in a modern browser. Keep this terminal running. On Windows, use `py -m http.server 8000`.
 
 ## Files
 
